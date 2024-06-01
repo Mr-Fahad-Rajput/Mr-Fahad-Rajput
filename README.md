@@ -1,7 +1,7 @@
 # 💻 Welcome to My GitHub Profile!
 
-![Profile views](https://gpvc.arturio.dev/your-username)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username/?tab=follow)
+![Profile views](https://gpvc.arturio.dev/mr-fahad-rajput)
+[![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
 ## About Me
 
