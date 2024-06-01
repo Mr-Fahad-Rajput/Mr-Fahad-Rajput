@@ -3,9 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
-## My Git Stats
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Fahad-Rajput\&rank_icon=github\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
 #### Current Role
 
 Currently, I'm working at an Australian startup as a CTO, where I have designed multiple systems and take care of Monitoring, DevOps, Frontend, Backend, CRM, Analytics and everything in between.
