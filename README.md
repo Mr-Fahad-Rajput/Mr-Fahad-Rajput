@@ -253,7 +253,7 @@ For a practical insight into my skills, explore my [Repositories](https://github
 
 ## About Me
 
-I’m a highly dedicated and enthusiastic web developer with a strong foundation in computer science. With a profound love for technology since childhood, I delved into the world of computers at the age of 5. By 6, I was already exploring the world of computers using CLI and MS Paint, setting the stage for an enduring passion for programming. At the age of 11, I wrote my first code in Visual Basic, and from that moment onward, I knew that programming would be an integral part of my life. Throughout my journey, I’ve been recognized as the "computer guy" wherever I went.
+I’m a highly dedicated and enthusiastic web developer with a strong foundation in computer science. With a profound love for technology since childhood, I delved into the world of computers at the age of 5. By 6, I was already exploring the world of computers using CLI, setting the stage for an enduring passion for programming. At the age of 11, I wrote my first Program in Visual Basic, and from that moment onward, I knew that programming would be an integral part of my life. Throughout my journey, I’ve been recognized as the "computer guy" wherever I went.
 
 ### Education
 
