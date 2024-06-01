@@ -6,7 +6,7 @@
 
 #### Current Role
 
-Currently, I'm working at an Australian startup as a CTO, where I have designed multiple systems and take care of monitoring, DevOps, frontend, backend, and everything in between.
+Currently, I'm working at an Australian startup as a CTO, where I have designed multiple systems and take care of Monitoring, DevOps, Frontend, Backend, CRM, Analytics and everything in between.
 
 ## 🛠️ Technologies & Tools
 
@@ -105,6 +105,11 @@ Here are some of the technologies and tools I work with:
 
 ![alteryx](https://img.shields.io/badge/Alteryx-Beginner-lightgrey)
 
+### Server Monitoring
+
+![Nagios](https://img.shields.io/badge/Nagios-Expert-blue)
+![Signoz](https://img.shields.io/badge/Signoz-Expert-blue)
+![NewRelic](https://img.shields.io/badge/New%20Relic-Very%20Good-yellow)
 
 ### Frameworks & Libraries
 
