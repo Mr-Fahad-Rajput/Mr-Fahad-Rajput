@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile!
 
-![Profile views](https://gpvc.arturio.dev/mr-fahad-rajput)
+![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
 ## About Me
