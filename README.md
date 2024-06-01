@@ -3,26 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
-## About Me
-
-I’m a highly dedicated and enthusiastic web developer with a strong foundation in computer science. With a profound love for technology since childhood, I delved into the world of computers at the age of 5. By 6, I was already exploring the world of computers using CLI and MS Paint, setting the stage for an enduring passion for programming. At the age of 11, I wrote my first code in Visual Basic, and from that moment onward, I knew that programming would be an integral part of my life. Throughout my journey, I’ve been recognized as the "computer guy" wherever I went.
-
-### Education
-
-I embarked on my formal education in Software Engineering at Comsats University Lahore at the age of 19, marking the beginning of my professional career. Over the years, I have delved into various computer technologies and explored emerging technologies such as AI, ML, IoT, and cloud computing.
-
-### Professional Experience
-
-I am a passionate web developer with a successful career spanning over 8 years. Starting my web development journey at 15, I quickly became proficient in a wide range of technologies, including JavaScript, PHP, HTML, CSS, React, Redux, Node, Express, Three.js, and more. As a full-stack developer, I have honed my skills in creating captivating web experiences and possess expertise in handling deployment across multiple platforms.
-
-#### Internships
-
-- **Software Engineering Intern at Tech Hub Lahore**: Gained essential experience in team development and a comprehensive understanding of various aspects of the field.
-- **Intern DevOps Engineer at Work Nation**: Focused on optimizing development and deployment processes, ensuring seamless workflows for the team.
-
-#### Jr. Web Developer
-
-For the past 3.5 years, I thrived as a dedicated Jr. Web Developer, actively contributing to various projects and gaining expertise in creating dynamic and user-centric web applications.
 
 #### Current Role
 
@@ -58,7 +38,40 @@ Here are some of the technologies and tools I work with:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue)
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![C++](https://img.shields.io/badge/C++-Advanced-green)
+![C++](https://img.shields.io/badge/C++-Intermediate-Yellow)
+![C](https://img.shields.io/badge/C++-Expert-blue)
+![C#](https://img.shields.io/badge/C%23-Beginner-lightgrey)
+
+
+### Scripting and Command Line
+
+![Bash](https://img.shields.io/badge/Bash-Advanced-green)
+![PowerShell](https://img.shields.io/badge/PowerShell-Intermediate-yellow)
+![CMD](https://img.shields.io/badge/CMD-Intermediate-yellow)
+
+### Tools & Platforms
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Advanced-green)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Advanced-green)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-yellow)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-yellow)
+![Git](https://img.shields.io/badge/Git-Expert-blue)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Expert-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Expert-blue)
+![SSMS](https://img.shields.io/badge/SSMS-Advanced-green)
+![Redis](https://img.shields.io/badge/Redis-Advanced-green)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
+![Supabase](https://img.shields.io/badge/Supabase-Intermediate-yellow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
+![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
+![Cassandra](https://img.shields.io/badge/Cassandra-Intermediate-yellow)
+![Oracle](https://img.shields.io/badge/Oracle-Intermediate-yellow)
+![MariaDB](https://img.shields.io/badge/MariaDB-Beginner-lightgrey)
+![CouchDB](https://img.shields.io/badge/CouchDB-Beginner-lightgrey)
 
 ### Frameworks & Libraries
 
@@ -84,13 +97,34 @@ Here are some of the technologies and tools I work with:
 
 ## 🚀 Projects & Contributions
 
-For a practical insight into my skills, explore my [API Integrations](https://github.com/your-username/api-integrations) page, where I showcase my expertise in seamlessly integrating robust APIs to enhance the functionality and performance of web applications. You can also visit my [Builds](https://github.com/your-username/builds) page, which highlights a portfolio of my work in web development.
+For a practical insight into my skills, explore my [Repositories](https://github.com/Mr-Fahad-Rajput?tab=repositories) , where I showcase some of my expertise in seamlessly integrating robust APIs to enhance the functionality and performance of web applications. You can also visit my [Builds](https://portfolio.faadii.tech/apis) page, which highlights a portfolio of my work in web development.
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-twitter)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=About.me)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/mr-fahad-rajput/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/mr-fahad-rajput)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=About.me)](https://portfolio.faadii.tech)
+
+
+## About Me
+
+I’m a highly dedicated and enthusiastic web developer with a strong foundation in computer science. With a profound love for technology since childhood, I delved into the world of computers at the age of 5. By 6, I was already exploring the world of computers using CLI and MS Paint, setting the stage for an enduring passion for programming. At the age of 11, I wrote my first code in Visual Basic, and from that moment onward, I knew that programming would be an integral part of my life. Throughout my journey, I’ve been recognized as the "computer guy" wherever I went.
+
+### Education
+
+I embarked on my formal education in Software Engineering at Comsats University Lahore at the age of 19, marking the beginning of my professional career. Over the years, I have delved into various computer technologies and explored emerging technologies such as AI, ML, IoT, and cloud computing.
+
+### Professional Experience
+
+I am a passionate web developer with a successful career spanning over Almost a Decade. Starting my web development journey at 15, I quickly became proficient in a wide range of technologies, including JavaScript, PHP, HTML, CSS, React, Redux, Node, Express, Three.js, and more. As a full-stack developer, I have honed my skills in creating captivating web experiences and possess expertise in handling deployment across multiple platforms.
+
+#### Internships
+
+- **Software Engineering Intern at Software House in Lahore**: Gained essential experience in team development and a comprehensive understanding of various aspects of the field.
+- **Intern DevOps Engineer at Data Company**: Focused on optimizing development and deployment processes, ensuring seamless workflows for the team.
+
+#### Jr. Web Developer
+
+For the past 3.5 years, I thrived as a dedicated Jr. Web Developer, actively contributing to various projects and gaining expertise in creating dynamic and user-centric web applications.
 
 Thank you for taking the time to review my profile. I’m eager to collaborate on innovative projects that extend the horizons of web development. Looking forward to the opportunity to work together.
