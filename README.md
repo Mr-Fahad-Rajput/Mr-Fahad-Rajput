@@ -45,9 +45,9 @@ Here are some of the technologies and tools I work with:
 
 ### Scripting and Command Line and Terminal Tools
 
-![Bash](https://img.shields.io/badge/Bash--Expert-blue)
+![Bash](https://img.shields.io/badge/Bash-Expert-blue)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Very%20Good-yellow)
-![CMD](https://img.shields.io/badge/CMD--Expert-blue)
+![CMD](https://img.shields.io/badge/CMD-Expert-blue)
 ![Vim](https://img.shields.io/badge/Vim-Expert-blue)
 ![Tmux](https://img.shields.io/badge/Tmux-Expert-blue)
 ![Screen](https://img.shields.io/badge/Screen-Expert-blue)
