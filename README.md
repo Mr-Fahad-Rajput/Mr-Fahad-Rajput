@@ -8,7 +8,8 @@
 Currently, I'm working at an Australian startup as a CTO, where I have designed multiple systems and take care of Monitoring, DevOps, Frontend, Backend, CRM, Analytics and everything in between.
 
 ### My GitHub Stats
-![Fahad's GitHub stats](https://github-readme-stats-1049770qy-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars)
+
+![Fahad's GitHub stats](https://github-readme-stats-i8hmx1qol-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues)
 
 
 
