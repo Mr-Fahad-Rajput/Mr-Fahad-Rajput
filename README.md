@@ -9,8 +9,8 @@ Currently, I'm working at an Australian startup as a CTO, where I have designed 
 
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="80%" src="https://github-readme-stats-n7fp3jcjl-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues&custom_title=Git%20Stats" alt="Fahad's GitHub stats" />
-    <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-fahad-rajput&theme=dark&layout=compact&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97" alt="Top Languages" />
+    <img width="60%" src="https://github-readme-stats-n7fp3jcjl-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues&custom_title=Git%20Stats" alt="Fahad's GitHub stats" />
+    <img width="60%" style="margin-top: 50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-fahad-rajput&theme=dark&layout=compact&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97" alt="Top Languages" />
   </div>
 </div>
 
