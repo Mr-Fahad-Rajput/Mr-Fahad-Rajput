@@ -9,7 +9,7 @@ Currently, I'm working at an Australian startup as a CTO, where I have designed 
 
 ### My GitHub Stats
 
-![Fahad's GitHub stats](https://github-readme-stats-fpr4y2t0l-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true)
+![Fahad's GitHub stats](https://github-readme-stats-fpr4y2t0l-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&show_icons=true)
 
 
 
