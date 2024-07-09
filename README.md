@@ -47,6 +47,7 @@ Here are some of the technologies and tools I work with:
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue)
+![Java](https://img.shields.io/badge/Java-Expert-blue)
 ![Python](https://img.shields.io/badge/Python-Very%20Good-yellow)
 ![C++](https://img.shields.io/badge/C++-Very%20Good-yellow)
 ![C](https://img.shields.io/badge/C-Expert-blue)
