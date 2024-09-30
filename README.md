@@ -5,8 +5,9 @@
 
 #### Current Role
 I'm working at an Australian startup as a CTO, where I have designed multiple systems and take care of Monitoring, DevOps, Frontend, Backend, CRM, Analytics and everything in between.
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput)
-
+<img width="60%" style="margin-top: 5%;" 
+         src="https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&hide=stars,issues" 
+         alt="GitHub Trophies" />
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="60%" style="margin-bottom: 5%;" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues&custom_title=Git%20Stats" alt="Fahad's GitHub stats" />
