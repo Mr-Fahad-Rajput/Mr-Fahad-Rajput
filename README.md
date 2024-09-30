@@ -6,7 +6,7 @@
 #### Current Role
 I'm working at an Australian startup as a CTO, where I have designed multiple systems and take care of Monitoring, DevOps, Frontend, Backend, CRM, Analytics and everything in between.
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&rank=-C,-B,-?)
+# ![Trophies](https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&rank=-C,-B,-?)
 
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
