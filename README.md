@@ -10,7 +10,7 @@
     <img width="20%" src="https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&column=1&row=1&title=Commit&margin-w=15&theme=gruvbox" alt="Single Trophy" />
   </div>
   <div style="width: 100%; text-align: center;">
-    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&row=1&title=MultiLanguage,LongTimeUser,Experience&margin-w=15&theme=gruvbox&no-bg=true" alt="Multiple Trophies" />
+    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&row=1&title=MultiLanguage,LongTimeUser,Experience&margin-w=15&theme=gruvbox" alt="Multiple Trophies" />
   </div>
     </div>
     <img width="60%" style="margin-bottom: 5%;" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=fff&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged_percentage&hide=stars,prs,issues&custom_title=My%20Git-Tracked%20Contributions&include_all_commits=true&rank_icon=github" alt="Fahad's GitHub stats" />
