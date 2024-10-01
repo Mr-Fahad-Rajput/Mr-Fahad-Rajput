@@ -6,67 +6,18 @@
 #### Current Role
 I'm working at an Australian startup as a CTO, where I have designed multiple systems and take care of Monitoring, DevOps, Frontend, Backend, CRM, Analytics and everything in between.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile</title>
-    <style>
-        body {
-            background-color: #0d1117;
-            color: #c9d1d9;
-            font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-        }
-        .container {
-            width: 80%;
-            max-width: 800px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .card {
-            width: 100%;
-            margin-bottom: 20px;
-            background-color: #0d1117;
-            border-radius: 6px;
-            box-shadow: 0 0 0 1px rgba(255,255,255,0.1);
-            overflow: hidden;
-        }
-        .trophy-row {
-            display: flex;
-            justify-content: space-between;
-            width: 100%;
-        }
-        img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="card trophy-row">
-            <img src="https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&column=1&row=1&title=Commit&margin-w=15&theme=gruvbox&no-bg=true" alt="Trophy - Commit">
-        </div>
-        <div class="card trophy-row">
-            <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&row=1&title=MultiLanguage,LongTimeUser,Experience&margin-w=15&theme=gruvbox&no-bg=true" alt="Trophies - MultiLanguage, LongTimeUser, Experience">
-        </div>
-        <div class="card">
-            <img src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues&custom_title=My%20Git-Tracked%20Contributions&include_all_commits=true&rank_icon=github" alt="Fahad's GitHub stats">
-        </div>
-        <div class="card">
-            <img src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api/top-langs/?username=mr-fahad-rajput&theme=dark&layout=compact&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97&count_private=true&langs_count=14&custom_title=My%20Git-Tracked%20Code%20Armory" alt="Top Languages">
-        </div>
+<div align="center" style="width: 80%; margin: auto;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 60%; margin-bottom: 5%;">
+      <img width="100%" style="margin-bottom: 5%;" src="https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&column=1&row=1&title=Commit&margin-w=15&theme=gruvbox&no-bg=true" alt="Single Trophy" />
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&column=3&row=1&title=MultiLanguage,LongTimeUser,Experience&margin-w=15&theme=gruvbox&no-bg=true" alt="Multiple Trophies" />
     </div>
-</body>
-</html>
+    <img width="60%" style="margin-bottom: 5%;" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues&custom_title=My%20Git-Tracked%20Contributions&include_all_commits=true&rank_icon=github" alt="Fahad's GitHub stats" />
+    <img width="60%" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api/top-langs/?username=mr-fahad-rajput&theme=dark&layout=compact&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97&count_private=true&langs_count=14&custom_title=My%20Git-Tracked%20Code%20Armory" alt="Top Languages" />
+  </div>
+</div>
+
+
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
