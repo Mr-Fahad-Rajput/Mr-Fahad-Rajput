@@ -288,7 +288,7 @@ I started as a Junior DevOps Engineer and quickly moved into a Senior Full Stack
 - **Intern DevOps Engineer at Data Company**: Focused on optimizing development and deployment processes, ensuring seamless workflows for the team.
 
 #### Jr. Web Developer
-
-For the past 3.5 years, I thrived as a dedicated Jr. Web Developer, actively contributing to various projects and gaining expertise in creating dynamic and user-centric web applications.
+August 2020 - October 2023
+I thrived as a dedicated Jr. Web Developer, actively contributing to various projects and gaining expertise in creating dynamic and user-centric web applications.
 
 Thank you for taking the time to review my profile. I’m eager to collaborate on innovative projects that extend the horizons of web development. Looking forward to the opportunity to work together.
