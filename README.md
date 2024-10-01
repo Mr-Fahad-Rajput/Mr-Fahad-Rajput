@@ -7,7 +7,7 @@
   <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="width: 60%; margin-bottom: 5%;">
       <div style="width: 100%; margin-bottom: 5%; text-align: center;">
-    <img width="20%" src="https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&column=1&row=1&title=Commit&margin-w=15&theme=gruvbox&no-bg=true" alt="Single Trophy" />
+    <img width="20%" src="https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&column=1&row=1&title=Commit&margin-w=15&theme=gruvbox" alt="Single Trophy" />
   </div>
   <div style="width: 100%; text-align: center;">
     <img width="50%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&row=1&title=MultiLanguage,LongTimeUser,Experience&margin-w=15&theme=gruvbox&no-bg=true" alt="Multiple Trophies" />
