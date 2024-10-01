@@ -14,7 +14,7 @@
   </div>
     </div>
     <img width="60%" style="margin-bottom: 5%;" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues&custom_title=My%20Git-Tracked%20Contributions&include_all_commits=true&rank_icon=github" alt="Fahad's GitHub stats" />
-    <img width="60%" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api/top-langs/?username=mr-fahad-rajput&theme=dark&layout=compact&bg_color=151515&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true&langs_count=14&custom_title=My%20Git-Tracked%20Code%20Armory" alt="Top Languages" />
+    <img width="60%" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api/top-langs/?username=mr-fahad-rajput&theme=dark&layout=donut&bg_color=151515&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true&langs_count=14&custom_title=My%20Git-Tracked%20Code%20Armory" alt="Top Languages" />
   </div>
 </div>
 
