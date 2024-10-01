@@ -9,7 +9,7 @@ I'm working at an Australian startup as a CTO, where I have designed multiple sy
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="width: 60%; margin-bottom: 5%;">
-      <img width="15%" style="margin-bottom: 5%;" src="https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&column=1&row=1&title=Commit&margin-w=15&theme=gruvbox&no-bg=true" alt="Single Trophy" />
+      <img width="20%" style="margin-bottom: 5%;" src="https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&column=1&row=1&title=Commit&margin-w=15&theme=gruvbox&no-bg=true" alt="Single Trophy" />
       <img width="50%" style="margin-bottom: 5%;" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&row=1&title=MultiLanguage,LongTimeUser,Experience&margin-w=15&theme=gruvbox&no-bg=true" alt="Multiple Trophies" />
     </div>
     <img width="60%" style="margin-bottom: 5%;" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api?username=mr-fahad-rajput&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues&custom_title=My%20Git-Tracked%20Contributions&include_all_commits=true&rank_icon=github" alt="Fahad's GitHub stats" />
