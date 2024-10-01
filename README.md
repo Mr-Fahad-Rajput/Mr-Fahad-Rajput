@@ -278,7 +278,9 @@ I embarked on my formal education in Software Engineering at Comsats University 
 
 ### Professional Experience
 
-I am a passionate web developer with a successful career spanning over Almost a Decade. Starting my web development journey at 15, I quickly became proficient in a wide range of technologies, including JavaScript, PHP, HTML, CSS, React, Redux, Node, Express, Three.js, and more. As a full-stack developer, I have honed my skills in creating captivating web experiences and possess expertise in handling deployment across multiple platforms.
+#### CTO & Lead Engineer | Homiee AU
+November 2023 - September 2024
+I started as a Junior DevOps Engineer and quickly moved into a Senior Full Stack Developer role. Over time, I took on more responsibilities and became the CTO & Lead Engineer, where I continue to oversee both the strategic and technical aspects of our projects. My work involves System Design, Monitoring, User Analytics Tracking and KPI Generation, Full Stack Site Management, CI/CD, VPS Management, and Data Scraping and Sorting through Automation Scripts.
 
 #### Internships
 
