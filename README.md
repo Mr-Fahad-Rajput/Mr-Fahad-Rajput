@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+![Trophy](https://github-profile-trophy.vercel.app/?username=mr-fahad-rajput&row=2&column=3)
 #### Current Role
 I'm working at an Australian startup as a CTO, where I have designed multiple systems and take care of Monitoring, DevOps, Frontend, Backend, CRM, Analytics and everything in between.
 
