@@ -3,6 +3,26 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
+<a href="https://portfolio.faadii.systems" target="_blank" style="text-decoration: none; color: inherit;">
+  <div style="display: flex; align-items: center; gap: 1.5rem; background-color: rgba(255, 255, 255, 0.1); padding: 1.5rem; border-radius: 12px; max-width: 400px; transition: transform 0.3s ease; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img 
+      src="https://your-photo-url-here.jpg" 
+      alt="Profile Photo" 
+      style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #fff; object-fit: cover;"
+    >
+    <div>
+      <h2 style="margin: 0; font-size: 1.25rem; color: #fff; display: flex; align-items: center; gap: 0.5rem;">
+        <span>🚀</span>
+        Checkout my Portfolio
+        <span>➡️</span>
+      </h2>
+      <p style="margin: 0.5rem 0 0; color: rgba(255, 255, 255, 0.8); font-size: 0.9rem;">
+        Click to explore my projects and skills!
+      </p>
+    </div>
+  </div>
+</a>
+
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="width: 60%; margin-bottom: 5%;">
