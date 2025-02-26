@@ -3,11 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
-<div style="width: 100%; display: flex; justify-content: space-around;">
-  <a href="https://portfolio.faadii.systems/builds">𝕄𝕐 ℙ𝕆ℝ𝕋𝕗𝕠𝕃𝕀𝕆</a>
-  <a href="https://www.upwork.com/freelancers/mrfahadrajput">𝕌ℙ𝕎𝕆ℝ𝕂 ℙℝ𝕆ℱ𝕀𝕃𝔼</a>
-</div>
-
+#‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ [𝕄𝕐 ℙ𝕆ℝ𝕋𝔽𝕆𝕃𝕀𝕆 𝕊𝕀𝕋𝔼](https://portfolio.faadii.systems/builds) ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ [𝕌ℙ𝕎𝕆ℝ𝕂 ℙℝ𝕆𝔽𝕀𝕃𝔼](https://www.upwork.com/freelancers/~019d63159a9ef9ed04)
 
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
