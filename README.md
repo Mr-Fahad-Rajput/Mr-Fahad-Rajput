@@ -3,6 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
+<div>
 <a href="https://portfolio.faadii.systems" style="display: block; background-color: #ffffff; color: #101419; padding: 2rem; border-radius: 0.5rem; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s ease;">
   <div style="display: flex; align-items: center; gap: 1.5rem;">
     <div style="width: 60px; height: 60px; border-radius: 50%; overflow: hidden; background-color: #e6eaef;">
@@ -16,6 +17,7 @@
     </div>
   </div>
 </a>
+</div>
 
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
