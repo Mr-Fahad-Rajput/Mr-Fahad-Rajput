@@ -3,24 +3,48 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
-<a href="https://portfolio.faadii.systems" target="_blank" style="text-decoration: none; color: inherit;">
-  <div style="display: flex; align-items: center; gap: 1.5rem; background-color: rgba(255, 255, 255, 0.1); padding: 1.5rem; border-radius: 12px; max-width: 400px; transition: transform 0.3s ease; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <img 
-      src="https://your-photo-url-here.jpg" 
-      alt="Profile Photo" 
-      style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #fff; object-fit: cover;"
-    >
-    <div>
-      <h2 style="margin: 0; font-size: 1.25rem; color: #fff; display: flex; align-items: center; gap: 0.5rem;">
-        <span>🚀</span>
-        Checkout my Portfolio
-        <span>➡️</span>
-      </h2>
-      <p style="margin: 0.5rem 0 0; color: rgba(255, 255, 255, 0.8); font-size: 0.9rem;">
-        Click to explore my projects and skills!
-      </p>
-    </div>
-  </div>
+<style>
+.portfolio-card {
+  width: min(100% - 2rem, 45rem);
+  margin: 1rem auto;
+  padding: 2rem;
+  background: linear-gradient(135deg, var(--clr-primary-200), var(--clr-primary-400));
+  border-radius: 0.5rem;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  color: var(--clr-neutral-100);
+  text-decoration: none;
+  display: block;
+}
+
+.portfolio-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+.card-title {
+  font-size: clamp(1.5rem, 4vw, 2.5rem);
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.card-arrow {
+  font-size: 1.5em;
+  margin-left: 0.5rem;
+  transition: transform 0.3s ease;
+}
+
+.portfolio-card:hover .card-arrow {
+  transform: translateX(3px);
+}
+</style>
+
+<a href="https://portfolio.faadii.systems" class="portfolio-card" target="_blank">
+  <h2 class="card-title">
+    Checkout My Portfolio
+    <span class="card-arrow">→</span>
+  </h2>
 </a>
 
 <div align="center" style="width: 80%; margin: auto;">
