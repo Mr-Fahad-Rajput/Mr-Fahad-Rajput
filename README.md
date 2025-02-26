@@ -4,9 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
 <div>
-      <a><h2 style="margin: 0; font-size: 1.5rem; color: #002952;">Checkout my portfolio</h2></a>
-      <p style="margin: 0.5rem 0 0; color: #778da6; font-size: 1rem;">Explore my projects and experience →</p>
-    
+      <a><h2 style="margin: 0; font-size: 1.5rem; color: #002952;">Checkout my portfolio</h2></a>    
 </div>
 
 <div align="center" style="width: 80%; margin: auto;">
