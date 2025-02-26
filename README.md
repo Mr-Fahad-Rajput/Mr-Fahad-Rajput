@@ -1,7 +1,10 @@
 # 💻 Welcome to My GitHub!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
-[![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow) [𝕄𝕐 ℙ𝕆ℝ𝕋𝔽𝕆𝕃𝕀𝕆 𝕊𝕀𝕋𝔼](https://portfolio.faadii.systems/projectPage) ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ [𝕌ℙ𝕎𝕆ℝ𝕂 ℙℝ𝕆𝔽𝕀𝕃𝔼](https://www.upwork.com/freelancers/~019d63159a9ef9ed04)
+[![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow) 
+[![Portfolio Site](https://img.shields.io/badge/Portfolio_Site-2370C8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.faadii.systems/projectPage)
+[![Upwork Profile](https://img.shields.io/badge/Upwork_Profile-2370C8?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019d63159a9ef9ed04)
+
 
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
