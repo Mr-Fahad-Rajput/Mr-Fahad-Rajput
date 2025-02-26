@@ -3,48 +3,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
-<style>
-.portfolio-card {
-  width: min(100% - 2rem, 45rem);
-  margin: 1rem auto;
-  padding: 2rem;
-  background: linear-gradient(135deg, var(--clr-primary-200), var(--clr-primary-400));
-  border-radius: 0.5rem;
-  text-align: center;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  cursor: pointer;
-  color: var(--clr-neutral-100);
-  text-decoration: none;
-  display: block;
-}
-
-.portfolio-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-}
-
-.card-title {
-  font-size: clamp(1.5rem, 4vw, 2.5rem);
-  margin-bottom: 0.5rem;
-  font-weight: 700;
-}
-
-.card-arrow {
-  font-size: 1.5em;
-  margin-left: 0.5rem;
-  transition: transform 0.3s ease;
-}
-
-.portfolio-card:hover .card-arrow {
-  transform: translateX(3px);
-}
-</style>
-
-<a href="https://portfolio.faadii.systems" class="portfolio-card" target="_blank">
-  <h2 class="card-title">
-    Checkout My Portfolio
-    <span class="card-arrow">→</span>
-  </h2>
+<a href="https://portfolio.faadii.systems" style="display: block; background-color: #ffffff; color: #101419; padding: 2rem; border-radius: 0.5rem; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s ease;">
+  <div style="display: flex; align-items: center; gap: 1.5rem;">
+    <div style="width: 60px; height: 60px; border-radius: 50%; overflow: hidden; background-color: #e6eaef;">
+      <svg viewBox="0 0 24 24" width="60" height="60" fill="#0059B3">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"/>
+      </svg>
+    </div>
+    <div>
+      <h2 style="margin: 0; font-size: 1.5rem; color: #002952;">Checkout my portfolio</h2>
+      <p style="margin: 0.5rem 0 0; color: #778da6; font-size: 1rem;">Explore my projects and experience →</p>
+    </div>
+  </div>
 </a>
 
 <div align="center" style="width: 80%; margin: auto;">
