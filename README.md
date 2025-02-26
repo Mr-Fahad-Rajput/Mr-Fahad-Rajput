@@ -4,19 +4,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
 <div>
-<a href="https://portfolio.faadii.systems" style="display: block; background-color: #ffffff; color: #101419; padding: 2rem; border-radius: 0.5rem; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s ease;">
-  <div style="display: flex; align-items: center; gap: 1.5rem;">
-    <div style="width: 60px; height: 60px; border-radius: 50%; overflow: hidden; background-color: #e6eaef;">
-      <svg viewBox="0 0 24 24" width="60" height="60" fill="#0059B3">
-        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"/>
-      </svg>
-    </div>
-    <div>
-      <h2 style="margin: 0; font-size: 1.5rem; color: #002952;">Checkout my portfolio</h2>
+      <a><h2 style="margin: 0; font-size: 1.5rem; color: #002952;">Checkout my portfolio</h2></a>
       <p style="margin: 0.5rem 0 0; color: #778da6; font-size: 1rem;">Explore my projects and experience →</p>
-    </div>
-  </div>
-</a>
+    
 </div>
 
 <div align="center" style="width: 80%; margin: auto;">
