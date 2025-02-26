@@ -3,9 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow)
 
-<div>
-      <a><h2 style="margin: 0; font-size: 1.5rem; color: #002952;">Checkout my portfolio</h2></a>    
-</div>
+#            [PORTFOLIO](https://portfolio.faadii.systems/builds)                  [UPWORK PROFILE](https://www.upwork.com/freelancers/mrfahadrajput)
 
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
