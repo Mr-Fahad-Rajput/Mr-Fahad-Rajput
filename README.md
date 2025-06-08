@@ -4,7 +4,7 @@
 [![Email Me](https://img.shields.io/badge/EMAIL_ME-2370C8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadameenrajput@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-2370C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-fahad-rajput/)
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
-%% [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow) %%
+<-- [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow) -->
 
 
 <div align="center" style="width: 80%; margin: auto;">
