@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-2370C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-fahad-rajput/)
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-fahad-rajput)
 <!-- [![GitHub followers](https://img.shields.io/github/followers/mr-fahad-rajput?label=Follow&style=social)](https://github.com/mr-fahad-rajput/?tab=follow) -->
-
-
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="width: 60%; margin-bottom: 5%;">
@@ -22,11 +20,8 @@
   </div>
 </div>
 
-
 ## 🛠️ Technologies & Tools
-
 Here are some of the technologies and tools I work with:
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
@@ -48,9 +43,7 @@ Here are some of the technologies and tools I work with:
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 
 ## 📊 My Skills
-
 ### Languages
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue)
 ![Java](https://img.shields.io/badge/Java-Expert-blue)
 ![Python](https://img.shields.io/badge/Python-Very%20Good-yellow)
@@ -58,9 +51,7 @@ Here are some of the technologies and tools I work with:
 ![C](https://img.shields.io/badge/C-Expert-blue)
 ![C#](https://img.shields.io/badge/C%23-Mediocre-green)
 
-
 ### Scripting and Command Line and Terminal Tools
-
 ![Bash](https://img.shields.io/badge/Bash-Expert-blue)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Very%20Good-yellow)
 ![CMD](https://img.shields.io/badge/CMD-Expert-blue)
@@ -101,9 +92,7 @@ Here are some of the technologies and tools I work with:
 ![Tig](https://img.shields.io/badge/Tig-Expert-blue)
 ![Broot](https://img.shields.io/badge/Broot-Expert-blue)
 
-
 ### Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-Expert-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Expert-blue)
 ![SSMS](https://img.shields.io/badge/SSMS-Expert-blue)
@@ -118,17 +107,14 @@ Here are some of the technologies and tools I work with:
 ![CouchDB](https://img.shields.io/badge/CouchDB-Beginner-lightgrey)
 
 ### Data Analysis
-
 ![alteryx](https://img.shields.io/badge/Alteryx-Beginner-lightgrey)
 
 ### Server Monitoring
-
 ![Nagios](https://img.shields.io/badge/Nagios-Expert-blue)
 ![Signoz](https://img.shields.io/badge/Signoz-Expert-blue)
 ![NewRelic](https://img.shields.io/badge/New%20Relic-Very%20Good-yellow)
 
 ### Frameworks & Libraries
-
 ![React](https://img.shields.io/badge/React-Expert-blue)
 ![Redux](https://img.shields.io/badge/Redux-Expert-blue)
 ![Redux Toolkit](https://img.shields.io/badge/ReduxToolkit-Expert-blue)
@@ -176,9 +162,7 @@ Here are some of the technologies and tools I work with:
 ![Cypress](https://img.shields.io/badge/Cypress-Mediocre-green)
 ![Enzyme](https://img.shields.io/badge/Enzyme-Mediocre-green)
 
-
 ### Tools & Platforms
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Expert-blue)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Expert-blue)
 ![AWS](https://img.shields.io/badge/AWS-Expert-blue)
@@ -209,8 +193,6 @@ Here are some of the technologies and tools I work with:
 ![NetBeans](https://img.shields.io/badge/NetBeans-Expert-blue)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-Mediocre-green)
 ![ESLint](https://img.shields.io/badge/ESLint-Expert-blue)
-
-
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-Expert-blue)
@@ -262,37 +244,91 @@ Here are some of the technologies and tools I work with:
 ![Prettier](https://img.shields.io/badge/Prettier-Mediocre-green)
 
 ## 🚀 Projects & Contributions
-
-For a practical insight into my skills, explore my [Repositories](https://github.com/Mr-Fahad-Rajput?tab=repositories) , where I showcase some of my expertise in seamlessly integrating robust APIs to enhance the functionality and performance of web applications. You can also visit my [Builds](https://portfolio.faadii.tech/apis) page, which highlights a portfolio of my work in web development.
+For a practical insight into my skills, explore my [Repositories](https://github.com/Mr-Fahad-Rajput?tab=repositories) , where I showcase some of my expertise in seamlessly integrating robust APIs to enhance the functionality and performance of web applications. You can also visit my [Portfolio](https://portfolio.faadii.systems/projectPage) and [Upwork Profile](https://www.upwork.com/fl/~019d63159a9ef9ed04?p=1895437634457128960) which highlight my work in web development.
 
 ## 🤝 Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/mr-fahad-rajput/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/mr-fahad-rajput)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=About.me)](https://portfolio.faadii.tech)
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=About.me)](https://portfolio.faadii.systems/projectPage)
 
 ## About Me
+Passionate Programmer, Struggling Businessman and a Man of Science.
 
-I’m a highly dedicated and enthusiastic web developer with a strong foundation in computer science. With a profound love for technology since childhood, I delved into the world of computers at the age of 5. By 6, I was already exploring the world of computers using CLI, setting the stage for an enduring passion for programming. At the age of 11, I wrote my first Program in Visual Basic, and from that moment onward, I knew that programming would be an integral part of my life. Throughout my journey, I’ve been recognized as the "computer guy" wherever I went.
+I'm a Sr. DevOps & Full Stack Engineer with a profound love for technology that began in childhood. My journey into computers started at age 5, and by 6, I was already exploring the command line interface. At 11, I wrote my first program in Visual Basic, marking the beginning of a lifelong passion for programming.
 
-### Education
+### 🎓 Education
+- **Bachelor's in Software Engineering** - Comsats University Islamabad, Lahore Campus (2019-2023)
+- **Intermediate** - Punjab College, Okara (2015-2017)
+- **Senior Secondary Education** - St. Bonaventure's High School, Hyderabad (2005-2015)
 
-I embarked on my formal education in Software Engineering at Comsats University Lahore at the age of 19, marking the beginning of my professional career. Over the years, I have delved into various computer technologies and explored emerging technologies such as AI, ML, IoT, and cloud computing.
+### 💼 Professional Experience
 
-### Professional Experience
+#### Principal DevOps Engineer | Dynaread
+*March 2025 - Present | Cranbrook, British Columbia, Canada (Remote)*
 
-#### CTO & Lead Engineer | Homiee AU
-November 2023 - September 2024
-I started as a Junior DevOps Engineer and quickly moved into a Senior Full Stack Developer role. Over time, I took on more responsibilities and became the CTO & Lead Engineer, where I continue to oversee both the strategic and technical aspects of our projects. My work involves System Design, Monitoring, User Analytics Tracking and KPI Generation, Full Stack Site Management, CI/CD, VPS Management, and Data Scraping and Sorting through Automation Scripts.
+Educational technology company focused on helping children with dyslexia improve their reading skills through specialized software solutions.
+- Started as Sr. DevOps Engineer and promoted to Principal DevOps Engineer
+- Led migrations from LAMP5 to LAMP8 for approximately 12 websites and web applications
+- Successfully migrated infrastructure from GCP to Digital Ocean including sites, microservices, and databases
+- Established multiple CI/CD pipelines on GitLab with multiple runners
+- Implemented Blue/Green Methodology for deployments achieving zero downtimes
+- Containerized applications using Docker to improve deployment consistency
+- Setup, migrated and managed MySQL databases from version 5 to 8
 
-#### Internships
+#### Principal Engineering Lead | Homiee
+*November 2023 - December 2024 | Sydney, Australia (Remote)*
 
-- **Software Engineering Intern at Software House in Lahore**: Gained essential experience in team development and a comprehensive understanding of various aspects of the field.
-- **Intern DevOps Engineer at Data Company**: Focused on optimizing development and deployment processes, ensuring seamless workflows for the team.
+Property-related Australian startup with 4 patent technologies mostly revolving around map features.
+- Started as Jr. DevOps Engineer and progressed to Principal Engineering Lead
+- Setup CI/CD for all microservices
+- Spearheaded Full Stack Development
+- Took care of every technical aspect of the company
 
-#### Jr. Web Developer
-August 2020 - October 2023
-I thrived as a dedicated Jr. Web Developer, actively contributing to various projects and gaining expertise in creating dynamic and user-centric web applications.
+#### Freelancer | Upwork
+*September 2023 - Present*
+- Achieved Rising Talent Badge within 4 weeks
+- Maintained Top Rated status for almost a year
+- 100% Job Success Score with 5-star rating
 
-Thank you for taking the time to review my profile. I’m eager to collaborate on innovative projects that extend the horizons of web development. Looking forward to the opportunity to work together.
+#### Jr. Web Developer | Zekab Solutions
+*December 2022 - March 2023 | Lahore*
+
+Software house in Islamabad focusing on:
+- React Front End Development
+- Express and Node Application Tier Development
+- Mongoose Back End Development
+- DevOps Management
+
+### 🚀 Entrepreneurial Experience
+
+#### Business Owner | Tour Takers Pvt. Ltd.
+*August 2020 - August 2022 | Lahore*
+
+Self-owned tour agency for trips around the country:
+- Organized 4-day tours every weekend throughout operational period
+- Gained valuable social management experience
+- Built PR network that enabled expansion into hospitality
+
+#### Business Owner | K. Group of Hotels Pvt. Ltd.
+*May 2021 - January 2022 | Kumrat Valley*
+
+Hotel chain managing hundreds of guests each weekend:
+- Achieved net profit of 1.1 Million Rupees
+- Generated gross revenue of 1.9 Million Rupees
+- Managed trips for almost 350 people per week
+
+### 🌍 Languages
+- **Urdu, Punjabi, Sindhi** - Bilingual proficiency
+- **English** - Fluent
+- **Haryanvi** - Professional working proficiency
+- **Siraiki** - Limited working proficiency
+
+### 🔍 Interests
+- **Technology**: Emerging Tech, Data Structures, Algorithms, RAG, MLDevops
+- **Science**: Astrophysics, Quantum Computing
+- **Strategy**: Chess, Business Development
+
+
+---
+
+Thank you for taking the time to review my profile. I'm eager to collaborate on innovative projects that extend the horizons of web development and DevOps. Looking forward to the opportunity to work together!
