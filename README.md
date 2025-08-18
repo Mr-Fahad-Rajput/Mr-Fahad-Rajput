@@ -24,26 +24,19 @@
 ## 🎖️ Certificates & Badges
 <!--START_SECTION:badges-->
 
-<!-- First row (2 badges with adjustable middle gap + equal side gaps) -->
-<table align="center" width="100%">
-  <tr>
-    <td width="10%"></td>
-    <td width="35%" align="center">
-      <a href="https://www.credly.com/badges/48215324-1c26-4ddd-a66f-7704ee460dcb" title="Cloud DevOps">
-        <img src="https://images.credly.com/size/200x200/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" width="150" height="150" alt="Cloud DevOps">
-      </a>
-    </td>
+<!-- First row (2 badges with spacer in the middle) -->
+<div align="center">
+  <a href="https://www.credly.com/badges/48215324-1c26-4ddd-a66f-7704ee460dcb" title="Cloud DevOps">
+    <img src="https://images.credly.com/size/200x200/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" width="150" height="150" alt="Cloud DevOps">
+  </a>
 
-    <td width="18%"></td>
+  <!-- Invisible spacer 👇 adjust width to control gap -->
+  <img src="https://via.placeholder.com/100x1/ffffff/ffffff" width="120" height="1" alt="" />
 
-    <td width="35%" align="center">
-      <a href="https://www.credly.com/badges/eda0b457-f773-460e-b849-75f8274a3104" title="Cloud FinOps">
-        <img src="https://images.credly.com/size/200x200/images/9ca18901-92a2-46ae-98e3-c05b53c2d03d/image.png" width="150" height="150" alt="Cloud FinOps">
-      </a>
-    </td>
-    <td width="10%"></td>
-  </tr>
-</table>
+  <a href="https://www.credly.com/badges/eda0b457-f773-460e-b849-75f8274a3104" title="Cloud FinOps">
+    <img src="https://images.credly.com/size/200x200/images/9ca18901-92a2-46ae-98e3-c05b53c2d03d/image.png" width="150" height="150" alt="Cloud FinOps">
+  </a>
+</div>
 
 
 <!-- Grid (12 badges in 4x4, spaced evenly) -->
