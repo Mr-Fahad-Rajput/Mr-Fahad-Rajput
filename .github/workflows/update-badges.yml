@@ -1,7 +1,5 @@
 name: Update Badges
 on:
-  schedule:
-    - cron: "20 15 * * *"
   workflow_dispatch:
 jobs:
   update-badges:
