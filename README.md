@@ -34,7 +34,6 @@
       </a>
     </td>
 
-    <!-- 👇 Increase this % to add more gap between the two badges -->
     <td width="18%"></td>
 
     <td width="35%" align="center">
