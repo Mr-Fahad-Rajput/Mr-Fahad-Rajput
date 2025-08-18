@@ -22,7 +22,7 @@
 
 
 ## 🎖️ Certificates & Badges
-<p align="center"><b><i>( click to verify on Credly)</i></b></p>
+<p align="center"><b><i>( Click Badge to Verify on Credly)</i></b></p>
 <!--START_SECTION:badges-->
 
 <!-- First row (2 badges spaced evenly) -->
