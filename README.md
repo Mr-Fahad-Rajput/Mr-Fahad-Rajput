@@ -20,6 +20,10 @@
   </div>
 </div>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+
 ## 🛠️ Technologies & Tools
 Here are some of the technologies and tools I work with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
