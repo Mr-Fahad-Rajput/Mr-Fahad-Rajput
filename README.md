@@ -23,21 +23,72 @@
 
 ## 🎖️ Certificates & Badges
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/48215324-1c26-4ddd-a66f-7704ee460dcb" title="Cloud DevOps"><img src="https://images.credly.com/size/200x200/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" alt="Cloud DevOps" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/eda0b457-f773-460e-b849-75f8274a3104" title="Cloud FinOps"><img src="https://images.credly.com/size/200x200/images/9ca18901-92a2-46ae-98e3-c05b53c2d03d/image.png" alt="Cloud FinOps" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/681714d4-e881-4f28-9b8f-adf7127646fc" title="Log Management Fundamentals"><img src="https://images.credly.com/size/200x200/images/b799f717-8c9c-439f-a255-1743dd6bae0e/blob" alt="Log Management Fundamentals" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/c96d4610-46fd-4a2e-a7ab-6a3ac5448b98" title="Log Querying & Analytics Learning Path"><img src="https://images.credly.com/size/200x200/images/c816ab43-7090-4971-b63d-2a77fa626736/blob" alt="Log Querying & Analytics Learning Path" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/18f356ae-758b-472c-8ba9-9fb5cbfcab5f" title="Site Reliability Engineer Learning Path"><img src="https://images.credly.com/size/200x200/images/bd5c7db0-db22-4d9f-b461-ab7cd9500bc5/blob" alt="Site Reliability Engineer Learning Path" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/27e01b7c-36f7-4791-9153-cacac00f6895" title="Application Security Engineer Learning Path"><img src="https://images.credly.com/size/200x200/images/ef6244d0-a140-4185-8d31-926701ded3f8/blob" alt="Application Security Engineer Learning Path" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/4e7cd398-9fcb-416e-84a6-afe43e80c596" title="Attacks & Threat Detection Learning Path"><img src="https://images.credly.com/size/200x200/images/62636265-bd5f-40b3-9fe0-67dfc2b00f34/blob" alt="Attacks & Threat Detection Learning Path" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/09c2b0c8-b479-4455-9c47-42a2645df5e3" title="Backend Engineer Learning Path"><img src="https://images.credly.com/size/200x200/images/6f445fe0-ec75-4f53-af4d-95534512a0bf/blob" alt="Backend Engineer Learning Path" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/863caf75-ce6a-42c6-b85c-bcb75e819ddf" title="Cloud Security Engineer - Cloud SIEM Learning Path"><img src="https://images.credly.com/size/200x200/images/a570e637-5cbc-48b5-86b4-b890d242f9a8/blob" alt="Cloud Security Engineer - Cloud SIEM Learning Path" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/d8eaed23-2bc3-4b5e-aaec-d5722522e61b" title="Cloud Security Engineer Learning Path"><img src="https://images.credly.com/size/200x200/images/52dd98f2-2d7f-4342-ae7c-59dc52551244/blob" alt="Cloud Security Engineer Learning Path" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/d0db85c3-c8f4-411f-a953-10f8be9edde9" title="Configuration Learning Path"><img src="https://images.credly.com/size/200x200/images/161037a9-57fb-4021-9e6e-1ada20bdec29/blob" alt="Configuration Learning Path" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/e3b962af-b4e2-430d-b973-361aed0b5a7f" title="Core Skills Learning Path"><img src="https://images.credly.com/size/200x200/images/fd5cd35b-6c0d-4946-9010-fcb3b4ad0839/blob" alt="Core Skills Learning Path" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/7f4fe8bb-3331-4252-87bd-0369b89791da" title="Kubernetes Monitoring Learning Path"><img src="https://images.credly.com/size/200x200/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob" alt="Kubernetes Monitoring Learning Path" width="150" height="150"></a>
-<a href="https://www.credly.com/badges/b7928f07-48e2-43d3-b7ad-3c993f0d1acc" title="Log Configuration & Processing Learning Path"><img src="https://images.credly.com/size/200x200/images/e365434e-3bcf-4401-80a1-55bb9e2fb797/blob" alt="Log Configuration & Processing Learning Path" width="150" height="150"></a>
+
+<!-- First row (2 badges, centered & evenly spaced) -->
+<div align="center">
+  <a href="https://www.credly.com/badges/48215324-1c26-4ddd-a66f-7704ee460dcb" title="Cloud DevOps">
+    <img src="https://images.credly.com/size/200x200/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" alt="Cloud DevOps" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/eda0b457-f773-460e-b849-75f8274a3104" title="Cloud FinOps">
+    <img src="https://images.credly.com/size/200x200/images/9ca18901-92a2-46ae-98e3-c05b53c2d03d/image.png" alt="Cloud FinOps" width="150" height="150">
+  </a>
+</div>
+
+<br/>
+
+<!-- Grid (12 badges in 4x4) -->
+<div align="center">
+
+  <!-- Row 1 -->
+  <a href="https://www.credly.com/badges/c96d4610-46fd-4a2e-a7ab-6a3ac5448b98" title="Log Querying & Analytics Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/c816ab43-7090-4971-b63d-2a77fa626736/blob" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/4e7cd398-9fcb-416e-84a6-afe43e80c596" title="Attacks & Threat Detection Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/62636265-bd5f-40b3-9fe0-67dfc2b00f34/blob" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/7f4fe8bb-3331-4252-87bd-0369b89791da" title="Kubernetes Monitoring Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/b7928f07-48e2-43d3-b7ad-3c993f0d1acc" title="Log Configuration & Processing Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/e365434e-3bcf-4401-80a1-55bb9e2fb797/blob" width="150" height="150">
+  </a>
+
+  <br/>
+
+  <!-- Row 2 -->
+  <a href="https://www.credly.com/badges/681714d4-e881-4f28-9b8f-adf7127646fc" title="Log Management Fundamentals">
+    <img src="https://images.credly.com/size/200x200/images/b799f717-8c9c-439f-a255-1743dd6bae0e/blob" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/18f356ae-758b-472c-8ba9-9fb5cbfcab5f" title="Site Reliability Engineer Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/bd5c7db0-db22-4d9f-b461-ab7cd9500bc5/blob" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/27e01b7c-36f7-4791-9153-cacac00f6895" title="Application Security Engineer Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/ef6244d0-a140-4185-8d31-926701ded3f8/blob" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/09c2b0c8-b479-4455-9c47-42a2645df5e3" title="Backend Engineer Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/6f445fe0-ec75-4f53-af4d-95534512a0bf/blob" width="150" height="150">
+  </a>
+
+  <br/>
+
+  <!-- Row 3 -->
+  <a href="https://www.credly.com/badges/863caf75-ce6a-42c6-b85c-bcb75e819ddf" title="Cloud Security Engineer - Cloud SIEM Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/a570e637-5cbc-48b5-86b4-b890d242f9a8/blob" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/d8eaed23-2bc3-4b5e-aaec-d5722522e61b" title="Cloud Security Engineer Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/52dd98f2-2d7f-4342-ae7c-59dc52551244/blob" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/d0db85c3-c8f4-411f-a953-10f8be9edde9" title="Configuration Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/161037a9-57fb-4021-9e6e-1ada20bdec29/blob" width="150" height="150">
+  </a>
+  <a href="https://www.credly.com/badges/e3b962af-b4e2-430d-b973-361aed0b5a7f" title="Core Skills Learning Path">
+    <img src="https://images.credly.com/size/200x200/images/fd5cd35b-6c0d-4946-9010-fcb3b4ad0839/blob" width="150" height="150">
+  </a>
+
+</div>
+
 <!--END_SECTION:badges-->
+
 
 
 ## 🛠️ Technologies & Tools
