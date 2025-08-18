@@ -30,8 +30,7 @@
     <img src="https://images.credly.com/size/200x200/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" width="150" height="150" alt="Cloud DevOps">
   </a>
 
-  <!-- Invisible spacer 👇 adjust width to control gap -->
-  <img src="https://via.placeholder.com/100x1/ffffff/ffffff" width="120" height="1" alt="" />
+<img src="https://via.placeholder.com/120x1/ffffff/ffffff" width="80" height="1" style="visibility:hidden; display:inline-block;" />
 
   <a href="https://www.credly.com/badges/eda0b457-f773-460e-b849-75f8274a3104" title="Cloud FinOps">
     <img src="https://images.credly.com/size/200x200/images/9ca18901-92a2-46ae-98e3-c05b53c2d03d/image.png" width="150" height="150" alt="Cloud FinOps">
