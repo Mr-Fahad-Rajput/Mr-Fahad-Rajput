@@ -28,7 +28,10 @@
 <!-- First row (2 badges spaced evenly) -->
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 30px; margin-bottom: 20px;">
   <a href="https://www.credly.com/badges/48215324-1c26-4ddd-a66f-7704ee460dcb" title="Cloud DevOps"><img src="https://images.credly.com/size/200x200/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" width="150" height="150"></a>
+  <a href="https://www.credly.com/earner/earned/badge/57123434-6a79-47fb-a8c5-ddd41377e012" title="Zero Trust Security"><img src="https://images.credly.com/images/6a5ec997-5ead-4022-a4ab-b13632629fe5/image.png" width="150" height="150"></a>
   <a href="https://www.credly.com/badges/eda0b457-f773-460e-b849-75f8274a3104" title="Cloud FinOps"><img src="https://images.credly.com/size/200x200/images/9ca18901-92a2-46ae-98e3-c05b53c2d03d/image.png" width="150" height="150"></a>
+  <a href="https://www.credly.com/earner/earned/badge/d7898e45-c1a2-4695-b541-74603b741c16" title="Principles of AI Software & Ecosystem"><img src="https://images.credly.com/images/7d272197-8ec3-454f-a82e-30ed2e09ad24/image.png" width="150" height="150"></a>
+
 </div>
 
 <!-- Grid (12 badges in 4x4, spaced evenly) -->
