@@ -6,7 +6,6 @@
 </picture>
 
 <p align="center">
-  <a href="https://faadii.com/packages"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-audit-dark.png"><img alt="Book a $500 audit" src="assets/btn-audit-light.png" height="46"></picture></a>
   <a href="https://faadii.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-site-dark.png"><img alt="faadii.com" src="assets/btn-site-light.png" height="46"></picture></a>
   <a href="https://www.upwork.com/freelancers/~019d63159a9ef9ed04"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-upwork-dark.png"><img alt="Upwork" src="assets/btn-upwork-light.png" height="46"></picture></a>
   <a href="https://www.linkedin.com/in/mr-fahad-rajput/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.png"><img alt="LinkedIn" src="assets/btn-linkedin-light.png" height="46"></picture></a>
@@ -22,12 +21,16 @@ I got my first computer at four and was running Linux servers for gaming communi
 
 Right now I'm Principal DevOps Engineer and Chief Security Officer at Genesys Financial Intelligence, the US fintech behind Zovox.app — an AI CFO app for entrepreneurs — and Principal DevOps Engineer at Dynaread in Canada. Before that I spent nearly two years at Homiee in Sydney, joining as a DevOps engineer and leaving as CTO and engineering lead of a team of 18.
 
-**Streetlight DevSecOps Division** is the name I work under. Most engagements start with a $500 audit and are delivered by me personally; when a project needs more hands, it runs as a Streetlight team with me as technical lead.
+**Streetlight DevSecOps Division** is the name I work under. I deliver most work personally; when a project needs more hands, it runs as a Streetlight team with me as technical lead.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/track-record-dark.png">
-  <img alt="Track record: 15 years in infrastructure and security. 100% Upwork Job Success. 850+ hours billed on Upwork. Team of 18 led as CTO." src="assets/track-record-light.png" width="100%">
+  <img alt="Track record: 15 years in infrastructure and security. 100% Upwork Job Success. 850+ hours on Upwork. Team of 18 led as CTO." src="assets/track-record-light.png" width="100%">
 </picture>
+
+<a href="https://faadii.com">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="cards/status-dark.png"><img alt="Status page: Linux administration and hardening since 2011; CSO and Principal DevOps at GenesysFI since Sep 2025; Principal DevOps at Dynaread since Mar 2025; freelance on Upwork since Sep 2023 with 100% Job Success; Streetlight DevSecOps Division open for security audits, pipelines and compliance engineering." src="cards/status-light.png" width="100%"></picture>
+</a>
 
 ## What I do
 
@@ -44,6 +47,10 @@ Right now I'm Principal DevOps Engineer and Chief Security Officer at Genesys Fi
 - **Homiee** — putting every sale on the right house: the mapping engine behind an Australian property platform, placing 95% of addresses on the right building automatically.
 
 Full case studies, project write-ups and architecture diagrams: **[faadii.com/projects](https://faadii.com/projects)** · Writing: **[faadii.com/blog](https://faadii.com/blog)**
+
+<a href="https://faadii.com/blog">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="cards/incidents-dark.png"><img alt="Incident log: postmortems from production, including the Elasticsearch ILM deadlock, an encrypted Arch laptop lockout and a jq -e health check that passed while Prometheus was down." src="cards/incidents-light.png" width="100%"></picture>
+</a>
 
 ## Experience
 
@@ -72,7 +79,7 @@ Australian property-technology startup.
 *Sep 2023 – present*
 - Started with web scraping and data work and moved into DevOps and security
 - Rising Talent within four weeks; held Top Rated for almost a year
-- 100% Job Success, 5.0★ rating, 850+ hours billed
+- 100% Job Success, 5.0★ rating, 850+ hours
 
 **Junior Web Developer · Zekab Solutions**
 *Dec 2022 – Mar 2023 · Lahore*
@@ -81,7 +88,6 @@ Australian property-technology startup.
 **Business owner · Tour Takers Pvt. Ltd. and K. Group of Hotels Pvt. Ltd.**
 *Aug 2020 – Aug 2022 · Lahore and Kumrat Valley*
 - Ran a tour company with four-day tours every weekend, then a seasonal hotel business hosting about 350 guests a week
-- Hotels: PKR 1.9 million gross revenue, PKR 1.1 million net profit
 - Designed, hosted and secured their booking platform on DigitalOcean with Docker
 
 **Before that**
@@ -100,45 +106,37 @@ Australian property-technology startup.
 <p align="center"><sub>Click a badge to verify it on Credly.</sub></p>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/48215324-1c26-4ddd-a66f-7704ee460dcb"><img alt="Cloud DevOps" title="Cloud DevOps" src="https://images.credly.com/size/200x200/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" width="96"></a>
-  <a href="https://www.credly.com/badges/57123434-6a79-47fb-a8c5-ddd41377e012"><img alt="Zero Trust Security" title="Zero Trust Security" src="https://images.credly.com/images/6a5ec997-5ead-4022-a4ab-b13632629fe5/image.png" width="96"></a>
-  <a href="https://www.credly.com/badges/eda0b457-f773-460e-b849-75f8274a3104"><img alt="Cloud FinOps" title="Cloud FinOps" src="https://images.credly.com/size/200x200/images/9ca18901-92a2-46ae-98e3-c05b53c2d03d/image.png" width="96"></a>
-  <a href="https://www.credly.com/badges/d7898e45-c1a2-4695-b541-74603b741c16"><img alt="Principles of AI Software & Ecosystem" title="Principles of AI Software & Ecosystem" src="https://images.credly.com/images/7d272197-8ec3-454f-a82e-30ed2e09ad24/image.png" width="96"></a>
+  <a href="https://www.credly.com/badges/48215324-1c26-4ddd-a66f-7704ee460dcb"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/cloud-devops-dark.png"><img alt="Cloud DevOps" src="cards/certs/cloud-devops-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/57123434-6a79-47fb-a8c5-ddd41377e012"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/zero-trust-security-dark.png"><img alt="Zero Trust Security" src="cards/certs/zero-trust-security-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/eda0b457-f773-460e-b849-75f8274a3104"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/cloud-finops-dark.png"><img alt="Cloud FinOps" src="cards/certs/cloud-finops-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/d7898e45-c1a2-4695-b541-74603b741c16"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/principles-of-ai-software-ecosystem-dark.png"><img alt="Principles of AI Software &amp; Ecosystem" src="cards/certs/principles-of-ai-software-ecosystem-light.png" width="23%"></picture></a>
   <br>
-  <a href="https://www.credly.com/badges/c96d4610-46fd-4a2e-a7ab-6a3ac5448b98"><img alt="Log Querying & Analytics" title="Log Querying & Analytics" src="https://images.credly.com/size/200x200/images/c816ab43-7090-4971-b63d-2a77fa626736/blob" width="96"></a>
-  <a href="https://www.credly.com/badges/4e7cd398-9fcb-416e-84a6-afe43e80c596"><img alt="Attacks & Threat Detection" title="Attacks & Threat Detection" src="https://images.credly.com/size/200x200/images/62636265-bd5f-40b3-9fe0-67dfc2b00f34/blob" width="96"></a>
-  <a href="https://www.credly.com/badges/7f4fe8bb-3331-4252-87bd-0369b89791da"><img alt="Kubernetes Monitoring" title="Kubernetes Monitoring" src="https://images.credly.com/size/200x200/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob" width="96"></a>
-  <a href="https://www.credly.com/badges/b7928f07-48e2-43d3-b7ad-3c993f0d1acc"><img alt="Log Configuration & Processing" title="Log Configuration & Processing" src="https://images.credly.com/size/200x200/images/e365434e-3bcf-4401-80a1-55bb9e2fb797/blob" width="96"></a>
+  <a href="https://www.credly.com/badges/c96d4610-46fd-4a2e-a7ab-6a3ac5448b98"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/log-querying-analytics-dark.png"><img alt="Log Querying &amp; Analytics" src="cards/certs/log-querying-analytics-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/4e7cd398-9fcb-416e-84a6-afe43e80c596"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/attacks-threat-detection-dark.png"><img alt="Attacks &amp; Threat Detection" src="cards/certs/attacks-threat-detection-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/7f4fe8bb-3331-4252-87bd-0369b89791da"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/kubernetes-monitoring-dark.png"><img alt="Kubernetes Monitoring" src="cards/certs/kubernetes-monitoring-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/b7928f07-48e2-43d3-b7ad-3c993f0d1acc"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/log-configuration-processing-dark.png"><img alt="Log Configuration &amp; Processing" src="cards/certs/log-configuration-processing-light.png" width="23%"></picture></a>
   <br>
-  <a href="https://www.credly.com/badges/18f356ae-758b-472c-8ba9-9fb5cbfcab5f"><img alt="Site Reliability Engineer" title="Site Reliability Engineer" src="https://images.credly.com/size/200x200/images/bd5c7db0-db22-4d9f-b461-ab7cd9500bc5/blob" width="96"></a>
-  <a href="https://www.credly.com/badges/27e01b7c-36f7-4791-9153-cacac00f6895"><img alt="Application Security Engineer" title="Application Security Engineer" src="https://images.credly.com/size/200x200/images/ef6244d0-a140-4185-8d31-926701ded3f8/blob" width="96"></a>
-  <a href="https://www.credly.com/badges/09c2b0c8-b479-4455-9c47-42a2645df5e3"><img alt="Backend Engineer" title="Backend Engineer" src="https://images.credly.com/size/200x200/images/6f445fe0-ec75-4f53-af4d-95534512a0bf/blob" width="96"></a>
-  <a href="https://www.credly.com/badges/863caf75-ce6a-42c6-b85c-bcb75e819ddf"><img alt="Cloud Security Engineer - Cloud SIEM" title="Cloud Security Engineer - Cloud SIEM" src="https://images.credly.com/size/200x200/images/a570e637-5cbc-48b5-86b4-b890d242f9a8/blob" width="96"></a>
+  <a href="https://www.credly.com/badges/18f356ae-758b-472c-8ba9-9fb5cbfcab5f"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/site-reliability-engineer-dark.png"><img alt="Site Reliability Engineer" src="cards/certs/site-reliability-engineer-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/27e01b7c-36f7-4791-9153-cacac00f6895"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/application-security-engineer-dark.png"><img alt="Application Security Engineer" src="cards/certs/application-security-engineer-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/09c2b0c8-b479-4455-9c47-42a2645df5e3"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/backend-engineer-dark.png"><img alt="Backend Engineer" src="cards/certs/backend-engineer-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/863caf75-ce6a-42c6-b85c-bcb75e819ddf"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/cloud-security-engineer-cloud-siem-dark.png"><img alt="Cloud Security Engineer - Cloud SIEM" src="cards/certs/cloud-security-engineer-cloud-siem-light.png" width="23%"></picture></a>
   <br>
-  <a href="https://www.credly.com/badges/d8eaed23-2bc3-4b5e-aaec-d5722522e61b"><img alt="Cloud Security Engineer" title="Cloud Security Engineer" src="https://images.credly.com/size/200x200/images/52dd98f2-2d7f-4342-ae7c-59dc52551244/blob" width="96"></a>
-  <a href="https://www.credly.com/badges/d0db85c3-c8f4-411f-a953-10f8be9edde9"><img alt="Configuration" title="Configuration" src="https://images.credly.com/size/200x200/images/161037a9-57fb-4021-9e6e-1ada20bdec29/blob" width="96"></a>
-  <a href="https://www.credly.com/badges/e3b962af-b4e2-430d-b973-361aed0b5a7f"><img alt="Core Skills" title="Core Skills" src="https://images.credly.com/size/200x200/images/fd5cd35b-6c0d-4946-9010-fcb3b4ad0839/blob" width="96"></a>
-  <a href="https://www.credly.com/badges/681714d4-e881-4f28-9b8f-adf7127646fc"><img alt="Log Management Fundamentals" title="Log Management Fundamentals" src="https://images.credly.com/size/200x200/images/b799f717-8c9c-439f-a255-1743dd6bae0e/blob" width="96"></a>
+  <a href="https://www.credly.com/badges/d8eaed23-2bc3-4b5e-aaec-d5722522e61b"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/cloud-security-engineer-dark.png"><img alt="Cloud Security Engineer" src="cards/certs/cloud-security-engineer-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/d0db85c3-c8f4-411f-a953-10f8be9edde9"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/configuration-dark.png"><img alt="Configuration" src="cards/certs/configuration-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/e3b962af-b4e2-430d-b973-361aed0b5a7f"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/core-skills-dark.png"><img alt="Core Skills" src="cards/certs/core-skills-light.png" width="23%"></picture></a>
+  <a href="https://www.credly.com/badges/681714d4-e881-4f28-9b8f-adf7127646fc"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/certs/log-management-fundamentals-dark.png"><img alt="Log Management Fundamentals" src="cards/certs/log-management-fundamentals-light.png" width="23%"></picture></a>
 </p>
 
-## On GitHub
+## Code armory
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api?username=Mr-Fahad-Rajput&show_icons=true&count_private=true&hide=stars,prs,issues&show=reviews,prs_merged_percentage&custom_title=Git-tracked%20contributions&rank_icon=github&bg_color=1E1F25&title_color=F3E9D6&text_color=F3E9D6&icon_color=FACC15&ring_color=FACC15&border_color=F3E9D6&border_radius=16">
-    <img alt="Fahad's GitHub stats" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api?username=Mr-Fahad-Rajput&show_icons=true&count_private=true&hide=stars,prs,issues&show=reviews,prs_merged_percentage&custom_title=Git-tracked%20contributions&rank_icon=github&bg_color=FFFBF2&title_color=111111&text_color=111111&icon_color=111111&ring_color=111111&border_color=111111&border_radius=16" height="170">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api/top-langs/?username=Mr-Fahad-Rajput&layout=compact&count_private=true&langs_count=10&custom_title=Top%20languages&bg_color=1E1F25&title_color=F3E9D6&text_color=F3E9D6&border_color=F3E9D6&border_radius=16">
-    <img alt="Top languages" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api/top-langs/?username=Mr-Fahad-Rajput&layout=compact&count_private=true&langs_count=10&custom_title=Top%20languages&bg_color=FFFBF2&title_color=111111&text_color=111111&border_color=111111&border_radius=16" height="170">
-  </picture>
+  <a href="https://github.com/Mr-Fahad-Rajput?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.png"><img alt="Languages across my repositories, updated daily from GitHub." src="cards/languages-light.png" width="60%"></picture></a>
 </p>
 
+## ~/
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-TROPHY-DEPLOYMENT.vercel.app/?username=Mr-Fahad-Rajput&theme=onedark&no-bg=true&no-frame=true&margin-w=12&column=-1">
-    <img alt="GitHub trophies" src="https://YOUR-TROPHY-DEPLOYMENT.vercel.app/?username=Mr-Fahad-Rajput&theme=flat&no-bg=true&no-frame=true&margin-w=12&column=-1" width="100%">
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="cards/terminal-dark.png"><img alt="Terminal fetch: fahad@streetlight. Uptime 15 years (since 2011). Arch Linux with LUKS on LVM, dwm on X11, bash with zoxide and fzf, Vim and Neovim, Redis-backed shell history with about 3,800 unique commands, SSH-signed commits, suckless and terminal-first with no Electron. Principal DevOps and CSO." src="cards/terminal-light.png" width="100%"></picture>
 </p>
 
 <p align="center"><sub>Most of my work lives in private client repositories, so this profile shows only a small part of it.</sub></p>
