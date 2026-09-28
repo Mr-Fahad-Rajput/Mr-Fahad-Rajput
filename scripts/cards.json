@@ -1,0 +1,190 @@
+{
+  "user": "Mr-Fahad-Rajput",
+  "status": {
+    "eyebrow": "FAHAD.STATUS",
+    "title": "What's running right now",
+    "months": 24,
+    "components": [
+      {
+        "name": "Linux administration & hardening",
+        "detail": "Started at 11 · 40+ apps and servers today",
+        "since": "2011-01",
+        "since_label": "since 2011"
+      },
+      {
+        "name": "CSO & Principal DevOps · GenesysFI",
+        "detail": "SOC 2, GLBA and GDPR controls and the evidence behind them",
+        "since": "2025-09"
+      },
+      {
+        "name": "Principal DevOps · Dynaread",
+        "detail": "Migrations, CI/CD and blue/green releases",
+        "since": "2025-03"
+      },
+      {
+        "name": "Freelance · Upwork",
+        "detail": "100% Job Success · 850+ hours",
+        "since": "2023-09"
+      },
+      {
+        "name": "Streetlight DevSecOps Division",
+        "detail": "Security audits, pipelines and compliance engineering",
+        "badge": "OPEN FOR AUDITS",
+        "state": "faadii.com"
+      }
+    ]
+  },
+  "incidents": {
+    "eyebrow": "INCIDENT LOG",
+    "title": "Postmortems from production",
+    "footer": "Full write-ups: faadii.com/blog",
+    "items": [
+      {
+        "id": "INC-01",
+        "title": "The Elasticsearch deadlock that parked every index",
+        "summary": "A single-node cluster hit 999 of its 1,000-shard ceiling, then deadlocked a month later. Both came from the same missing setting in the ILM policy.",
+        "published": "2026-09-28"
+      },
+      {
+        "id": "INC-02",
+        "title": "Locked out of my own encrypted Arch laptop",
+        "summary": "After a power-IC repair the laptop stopped booting. The fix came down to efivars in a chroot and two conflicting loader entries.",
+        "published": "2026-10-12"
+      },
+      {
+        "id": "INC-03",
+        "title": "jq -e said the health check passed",
+        "summary": "A Prometheus reachability probe passed while Prometheus was refusing connections: on that host's jq, -e exits 0 on empty input.",
+        "published": "2026-10-26"
+      }
+    ]
+  },
+  "languages": {
+    "eyebrow": "LANGUAGES",
+    "title": "Git-tracked code armory",
+    "top": 8,
+    "exclude_repos": [],
+    "exclude_languages": []
+  },
+  "certs": [
+    {
+      "title": "Cloud DevOps",
+      "verify": "https://www.credly.com/badges/48215324-1c26-4ddd-a66f-7704ee460dcb",
+      "image": "https://images.credly.com/size/200x200/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png"
+    },
+    {
+      "title": "Zero Trust Security",
+      "verify": "https://www.credly.com/badges/57123434-6a79-47fb-a8c5-ddd41377e012",
+      "image": "https://images.credly.com/images/6a5ec997-5ead-4022-a4ab-b13632629fe5/image.png"
+    },
+    {
+      "title": "Cloud FinOps",
+      "verify": "https://www.credly.com/badges/eda0b457-f773-460e-b849-75f8274a3104",
+      "image": "https://images.credly.com/size/200x200/images/9ca18901-92a2-46ae-98e3-c05b53c2d03d/image.png"
+    },
+    {
+      "title": "Principles of AI Software & Ecosystem",
+      "verify": "https://www.credly.com/badges/d7898e45-c1a2-4695-b541-74603b741c16",
+      "image": "https://images.credly.com/images/7d272197-8ec3-454f-a82e-30ed2e09ad24/image.png"
+    },
+    {
+      "title": "Log Querying & Analytics",
+      "verify": "https://www.credly.com/badges/c96d4610-46fd-4a2e-a7ab-6a3ac5448b98",
+      "image": "https://images.credly.com/size/200x200/images/c816ab43-7090-4971-b63d-2a77fa626736/blob"
+    },
+    {
+      "title": "Attacks & Threat Detection",
+      "verify": "https://www.credly.com/badges/4e7cd398-9fcb-416e-84a6-afe43e80c596",
+      "image": "https://images.credly.com/size/200x200/images/62636265-bd5f-40b3-9fe0-67dfc2b00f34/blob"
+    },
+    {
+      "title": "Kubernetes Monitoring",
+      "verify": "https://www.credly.com/badges/7f4fe8bb-3331-4252-87bd-0369b89791da",
+      "image": "https://images.credly.com/size/200x200/images/e4c38805-e2fd-469c-83fc-8dab303be440/blob"
+    },
+    {
+      "title": "Log Configuration & Processing",
+      "verify": "https://www.credly.com/badges/b7928f07-48e2-43d3-b7ad-3c993f0d1acc",
+      "image": "https://images.credly.com/size/200x200/images/e365434e-3bcf-4401-80a1-55bb9e2fb797/blob"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "verify": "https://www.credly.com/badges/18f356ae-758b-472c-8ba9-9fb5cbfcab5f",
+      "image": "https://images.credly.com/size/200x200/images/bd5c7db0-db22-4d9f-b461-ab7cd9500bc5/blob"
+    },
+    {
+      "title": "Application Security Engineer",
+      "verify": "https://www.credly.com/badges/27e01b7c-36f7-4791-9153-cacac00f6895",
+      "image": "https://images.credly.com/size/200x200/images/ef6244d0-a140-4185-8d31-926701ded3f8/blob"
+    },
+    {
+      "title": "Backend Engineer",
+      "verify": "https://www.credly.com/badges/09c2b0c8-b479-4455-9c47-42a2645df5e3",
+      "image": "https://images.credly.com/size/200x200/images/6f445fe0-ec75-4f53-af4d-95534512a0bf/blob"
+    },
+    {
+      "title": "Cloud Security Engineer - Cloud SIEM",
+      "verify": "https://www.credly.com/badges/863caf75-ce6a-42c6-b85c-bcb75e819ddf",
+      "image": "https://images.credly.com/size/200x200/images/a570e637-5cbc-48b5-86b4-b890d242f9a8/blob"
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "verify": "https://www.credly.com/badges/d8eaed23-2bc3-4b5e-aaec-d5722522e61b",
+      "image": "https://images.credly.com/size/200x200/images/52dd98f2-2d7f-4342-ae7c-59dc52551244/blob"
+    },
+    {
+      "title": "Configuration",
+      "verify": "https://www.credly.com/badges/d0db85c3-c8f4-411f-a953-10f8be9edde9",
+      "image": "https://images.credly.com/size/200x200/images/161037a9-57fb-4021-9e6e-1ada20bdec29/blob"
+    },
+    {
+      "title": "Core Skills",
+      "verify": "https://www.credly.com/badges/e3b962af-b4e2-430d-b973-361aed0b5a7f",
+      "image": "https://images.credly.com/size/200x200/images/fd5cd35b-6c0d-4946-9010-fcb3b4ad0839/blob"
+    },
+    {
+      "title": "Log Management Fundamentals",
+      "verify": "https://www.credly.com/badges/681714d4-e881-4f28-9b8f-adf7127646fc",
+      "image": "https://images.credly.com/size/200x200/images/b799f717-8c9c-439f-a255-1743dd6bae0e/blob"
+    }
+  ],
+  "terminal": {
+    "prompt": "fahad@streetlight",
+    "command": "fetch",
+    "uptime_since": 2011,
+    "rows": [
+      [
+        "OS",
+        "Arch Linux · LUKS on LVM"
+      ],
+      [
+        "WM",
+        "dwm (X11)"
+      ],
+      [
+        "Shell",
+        "bash · zoxide + fzf"
+      ],
+      [
+        "Editor",
+        "Vim / Neovim"
+      ],
+      [
+        "History",
+        "Redis-backed · ~3,800 unique commands"
+      ],
+      [
+        "Commits",
+        "SSH-signed"
+      ],
+      [
+        "Rules",
+        "suckless · terminal-first · no Electron"
+      ],
+      [
+        "Role",
+        "Principal DevOps · CSO"
+      ]
+    ]
+  }
+}
