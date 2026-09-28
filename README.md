@@ -1,5 +1,5 @@
 <!-- Profile README for github.com/Mr-Fahad-Rajput. Images live in /assets; each has a light and a dark version. -->
-UPDATED:Sep 29th 2026
+LAST UPDATED:Sep 29th 2026
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
   <img alt="Streetlight DevSecOps. Fahad Ameen Rajput: 15 years of making systems resilient. Illuminating vulnerabilities. Automating the rest. DevOps, security and compliance engineering for startups and fintechs, from the pipeline to the audit evidence. SOC 2, GLBA, GDPR, Zero Trust, 100% Job Success, 850+ hours." src="assets/hero-light.png" width="100%">
