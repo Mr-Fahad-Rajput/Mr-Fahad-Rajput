@@ -144,8 +144,8 @@ def gh_get(url):
 
 def fetch_languages(user):
     if OFFLINE:
-        return {"JavaScript": 5970, "HTML": 1810, "Python": 618, "TypeScript": 380, "Shell": 305,
-                "CSS": 261, "C": 179, "Less": 127, "HCL": 115, "Makefile": 58, "EJS": 56}, 12, False
+        return {"HTML": 4930, "JavaScript": 4170, "CSS": 500, "Less": 370, "Markdown": 900,
+                "Python": 20, "Dockerfile": 2}, 4, False
     private = bool(os.environ.get("CARDS_TOKEN"))
     base = ("https://api.github.com/user/repos?affiliation=owner,collaborator,organization_member"
             if private else f"https://api.github.com/users/{user}/repos?type=owner")
@@ -156,12 +156,24 @@ def fetch_languages(user):
         if len(batch) < 100:
             break
         page += 1
-    skip = set(DATA["languages"].get("exclude_repos", []))
+    cfg = DATA["languages"]
+    skip = set(cfg.get("exclude_repos", []))
+    md_exts = tuple(cfg.get("markdown_extensions", [".md", ".mdx", ".markdown"]))
     totals, counted = {}, 0
     for repo in repos:
         if repo.get("fork") or repo["name"] in skip:
             continue
         langs = gh_get(repo["languages_url"]).json()
+        # GitHub's language stats leave out prose (Markdown), so count it from the file tree
+        if cfg.get("include_markdown") and repo.get("default_branch"):
+            try:
+                tree = gh_get(f"{repo['url']}/git/trees/{repo['default_branch']}?recursive=1").json()
+                md = sum(e.get("size", 0) for e in tree.get("tree", [])
+                         if e.get("type") == "blob" and e["path"].lower().endswith(md_exts))
+                if md:
+                    langs["Markdown"] = langs.get("Markdown", 0) + md
+            except Exception as e:  # empty repos return 409; skip them
+                print(f"tree skipped for {repo['name']}: {e}")
         if langs:
             counted += 1
         for k, v in langs.items():
@@ -277,8 +289,10 @@ def incidents_card(theme):
 def languages_card(theme, langs, repos, private):
     t, cfg = THEMES[theme], DATA["languages"]
     total = sum(langs.values()) or 1
-    top = sorted(langs.items(), key=lambda kv: -kv[1])[: cfg.get("top", 8)]
-    W, H = 430, 470
+    min_pct = cfg.get("min_percent", 0.1)
+    ranked = [kv for kv in sorted(langs.items(), key=lambda kv: -kv[1]) if 100 * kv[1] / total >= min_pct]
+    top = ranked[: cfg.get("top", 8)]
+    W, H = 430, 92 + 40 * len(top) + 62
     im, d = canvas(W, H)
     card(d, (4, 4, W - 10, H - 10), LILAC, t)
     x0 = 28

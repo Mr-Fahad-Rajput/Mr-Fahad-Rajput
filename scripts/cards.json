@@ -64,7 +64,9 @@
     "title": "Git-tracked code armory",
     "top": 8,
     "exclude_repos": [],
-    "exclude_languages": []
+    "exclude_languages": [],
+    "include_markdown": true,
+    "min_percent": 0.1
   },
   "certs": [
     {
